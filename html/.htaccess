@@ -1,0 +1,14 @@
+RewriteBase /
+
+RewriteRule ^shirts.html?$ / [L,R,NC]
+RewriteRule ^posters.html?$ / [L,R,NC]
+RewriteRule ^learn_japanese_kanji.html?$ / [L,R,NC]
+RewriteRule ^index.html?$ / [L,R,NC]
+RewriteRule ^kanji_japanese_history.html?$ / [L,R,NC]
+RewriteRule ^shipping_kanji_poster.html?$ / [L,R,NC]
+RewriteRule ^international.html?$ / [L,R,NC]
+RewriteRule ^kanji_poster_return.html?$ / [L,R,NC]
+RewriteRule ^learn_kanji_contact.html?$ / [L,R,NC]
+RewriteRule ^kanji_poster_security.html?$ / [L,R,NC]
+RewriteRule ^thankyou.php?$ / [L,R,NC]
+RewriteRule ^special.html?$ / [L,R,NC]
